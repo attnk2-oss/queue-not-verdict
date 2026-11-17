@@ -1,0 +1,11 @@
+Rail: posted price per task, paid on merge. DevPool 18 Nov: 89 open, 88 priced, $27,860, median $150, max $2,400; 669 paid at $266 each. A merge is 15-237 make.fun places at $10.11.
+
+Filter, 90 s a candidate, the edge is the skip: price posted 88/89; repo merged in 30 days, 4 repos, 5 issues, $600; one /start, all 4 answer core team only; outside merges in 90 days: 22, all its bot.
+
+Queue and watch list, not a verdict: a skip is logged with its clause, retested weekly; 4 new priced issues in 30 days, the gate is per repo.
+
+Day 1: 89 checks, 2.2 h, rank by dollars an hour; /start the top 2, PR the top one in 24 h, failing test first; a permit in 7 days shows if the gate blocks claiming or payment. Each ends in a PR or a logged skip.
+
+Fallback, same clauses: make.fun, 42 of 52 settled, 1,167 places at $10.11, 1 place per entrant; 16 of 52 clear 5%, 5.2 a day.
+
+Kill: 10 checks, no permit by day 10. Day 30: $100-$1 + $266 (8 PRs, 1 merge) + $40 (4 places of 48 entries) = $405; floor $139.
